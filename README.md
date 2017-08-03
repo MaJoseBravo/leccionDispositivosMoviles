@@ -1,2 +1,2 @@
 # leccionDispositivosMoviles
-# Leccion1 (jostys)
+# Leccion1 (Leccion1)
